@@ -1,0 +1,17 @@
+
+/* Zapobiega powtarzaniu się obrazu w tle */
+body {
+      background-repeat:no-repeat;
+      background-size:cover;
+}
+
+/* Zmiana koloru fontu głównego containera na stronie głównej */
+#main {
+    color: white;
+}
+
+/* Zmiana koloru listy filmów */
+.movieList {
+    color: red;
+    font-weight: bold;
+}
